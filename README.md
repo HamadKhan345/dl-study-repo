@@ -10,4 +10,4 @@ Welcome to my deep learning study repository! This repo serves as a collection o
 ## 🚀 **Getting Started**
 1. Clone this repo:
    ```bash
-   git clone https://github.com/hamadkhan345/dl-study-repo.git
+   git clone https://github.com/Hamadkhan345/dl-study-repo.git
